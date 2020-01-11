@@ -1,0 +1,21 @@
+
+
+* {
+    font-family: 'Stoke', serif;
+}
+
+
+.textStyle {
+
+    position: relative;
+    text-align: center;
+    top: 50px;
+    line-height: 1.9;
+    font-size: 40px;
+    color: #663300;
+
+}
+
+body {
+    background-color: #fff2e6;
+}
